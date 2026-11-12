@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cumple-ma
+    name: Sorpresa
     runtime: static
     buildCommand: echo "No build required"
     staticPublishPath: .
